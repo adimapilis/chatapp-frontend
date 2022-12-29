@@ -1,0 +1,19 @@
+.sent-by-user {
+  align-self: flex-end;
+  background-color: lightskyblue;
+
+}
+
+.sent-by-friend {
+  align-self: flex-start;
+  background-color: rgb(0 0 0 /.1);
+}
+
+.chat-bubble {
+  max-width: 350px;
+  padding: 10px;
+  border-radius: 10px;
+  margin-top: 5px;
+  text-align: left;
+}
+

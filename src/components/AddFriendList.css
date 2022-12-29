@@ -1,0 +1,14 @@
+
+.addfriend-list-container:hover {
+  background-color: rgb(0 0 0 /.1);
+}
+
+.addfriend-list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding: 5px 0px;
+  width: 100%;
+  margin-top: 10px;
+  align-content: center;
+}
